@@ -18,9 +18,10 @@ The following **optional** features are implemented:
 
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
+The following **additional** features could be done to improve app functionality:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] App can support multiple lists and interchange between each one.
+* [ ] Could allow user to make sure they want to delete an item from the list.
 
 ## Video Walkthrough
 
@@ -32,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some issues I faced creating the app was find the logcat feature and profiler. That was a result of the version differences from the video and today. Another issue was a configuration error, where "compile" was obsolete and I had to make sure I write implementation correctly for the addition of an apache commons dependency. 
 
 ## License
 
